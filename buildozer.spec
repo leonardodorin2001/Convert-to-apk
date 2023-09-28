@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = SampleApp
+title = App
 
 # (str) Package name
-package.name = sampleapk
+package.name = Appapk
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.novfensec
